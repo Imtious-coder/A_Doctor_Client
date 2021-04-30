@@ -7,7 +7,7 @@
 * Choose the service you want.
 * Pick any flexible date for appointment. 
 
-#### Tech and Tools: JavaScript, React, HTML5, CSS3, Bootstrap5, React Router, Fontawesome, Netlify Git, Github
+#### Tech and Tools: JavaScript, React, HTML5, CSS3, Bootstrap5, React Router, Fontawesome, Netlify, Git, Github
 
 ###### Imtious Islam 
 
